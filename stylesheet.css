@@ -8,13 +8,15 @@
 body {
   font-family: 'Raleway', sans-serif;
   color: #555555;
-  padding: 100px;
+  margin: 0; 
+  padding: 0; 
+  
 }
 
 h1 {
   color: #01426A;
   text-align: center;
-  padding: 10px 30px 30px 10px;  
+  padding-top: 150px;  
 }
 
 h2 {
@@ -63,4 +65,15 @@ details {
 
 .center {
   text-align: center;
+}
+
+
+.span13{
+    width:59.8198%;
+    float:left; 
+}
+
+#headerBar {
+    height: 100px;
+    background: #01426A
 }
