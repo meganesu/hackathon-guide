@@ -54,7 +54,7 @@ th {
 }
 
 details {
-  padding: 15px;
+  padding: 20px;
   border: 1px solid #6ECEB2;
 }
 
@@ -73,7 +73,11 @@ details {
     float:left; 
 }
 
+.contents{ 
+    padding-top:10px; 
+} 
+
 #headerBar {
-    height: 75px;
+    height: 100px;
     background: #01426A
 }
