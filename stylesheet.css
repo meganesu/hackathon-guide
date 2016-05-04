@@ -1,0 +1,59 @@
+/*
+@gwc-navy: #01426A;
+@gwc-teal: #6ECEB2;
+@gwc-pink: #F4364C;
+@gwc-yellow: #ECE81A;
+*/
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #555555;
+  padding: 15px;
+}
+
+h1 {
+  color: #01426A;
+  text-align: center;
+}
+
+h2 {
+  color: #01426A;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h3 {
+  color: #F4364C;
+}
+
+table, th, td {
+  border: 1px solid #F4364C;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  font-weight: bold;
+}
+
+details {
+  padding: 15px;
+  border: 1px solid #6ECEB2;
+}
+
+.expanded {
+  padding: 15px;
+}
+
+
+.center {
+  text-align: center;
+}
