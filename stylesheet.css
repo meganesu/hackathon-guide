@@ -67,17 +67,17 @@ details {
   text-align: center;
 }
 
-
-.span13{
-    width:59.8198%;
-    float:left; 
-}
-
 .contents{ 
     padding-top:10px; 
 } 
 
-#headerBar {
-    height: 100px;
-    background: #01426A
+.nav {
+  height: 100px;
+  width: 100%;
+  background: #01426A;
+  padding: 15px;
+}
+
+.nav img {
+  height: 100%;
 }
