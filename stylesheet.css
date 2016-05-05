@@ -37,6 +37,11 @@ h3 {
   padding-bottom: 15px; 
 }
 
+details {
+  padding: 20px;
+  border: 1px solid #6ECEB2;
+}
+
 table, th, td {
   border: 2px solid #F4364C;
 }
@@ -53,23 +58,21 @@ th {
   font-weight: bold;
 }
 
-details {
-  padding: 20px;
-  border: 1px solid #6ECEB2;
+.col-time {
+  width: 25%;
+}
+
+.col-event {
+  width: 30%;
+}
+
+.col-consider {
+  width: 45%;
 }
 
 .expanded {
   padding: 15px;
 }
-
-
-.center {
-  text-align: center;
-}
-
-.contents{ 
-    padding-top:10px; 
-} 
 
 .nav {
   height: 100px;
